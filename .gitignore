@@ -1,0 +1,5 @@
+new.py
+test.py
+__pycache__/
+*.pyc
+amazon_images.txt
