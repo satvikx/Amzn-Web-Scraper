@@ -25,4 +25,4 @@
 3. Install Dependencies `uv pip install -r requirements.txt`.
 4. Insert the product url in `main.py` file.
 5. Run using `python main.py`.
-6. Results are saved in `amazon_product.csv` and `amazon_product.json`. 
+6. Results are saved in [amazon_product.csv](amazon_product.csv) and [amazon_product.json](amazon_product.json). 
